@@ -45,6 +45,7 @@ import { trigger, state, style, transition, animate, keyframes ,group} from '@an
       ]),
 
     ]),
+
     trigger('list1',[
       state('in',style({
         opacity:1,
